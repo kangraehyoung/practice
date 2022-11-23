@@ -20,7 +20,7 @@ public class Application {
 			arr[i] = arr[i-1] + arr[i-2];
 		}
 		
-		for (int i = 1; i <= 10; i++) {
+		for (int i = 1; i <= 30; i++) {
 			System.out.print(arr[i] + " ");
 		}
 		
